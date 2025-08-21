@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import AdrOccupancyChart from './components/AdrOccupancyChart';
 import { generateMockData, type DataPattern, PATTERN_LABELS, PATTERN_ANALYSIS } from './mockData';
